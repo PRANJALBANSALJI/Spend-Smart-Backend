@@ -199,5 +199,5 @@ DELETE /api/v1/expenses/:id
 
 ## For more Content
 
-- For feedback and support, email us at devendrak2701@gmail.com 📧
-- Follow me on [Linkedin]https://www.linkedin.com/in/devendra-kumar-89a522273/) for updates. 🔗
+- For feedback and support, email us at pranjalbansal03@gmail.com 📧
+- Follow me on [Linkedin]https://www.linkedin.com/in/pranjal-bansal-91a060273) for updates. 🔗
